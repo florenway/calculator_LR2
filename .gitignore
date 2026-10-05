@@ -1,0 +1,22 @@
+*.iml
+agent-tools/
+.gradle/
+local.properties
+.idea/
+.DS_Store
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+!apk/calculator.apk
+*.idsig
+*.jks
+!keystore/calculator.jks
+/app/release/
+
+# Project exclude paths
+/apk/
+/app/
+/gradle/
+/keystore/
